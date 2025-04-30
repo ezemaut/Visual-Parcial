@@ -158,7 +158,7 @@
       <h3 class="final-title">Territorios del Gol: <br> ¿Dónde mandan Messi y Maradona?</h3>
     <div class="chart-box-half">
       <div class="flourish-embed flourish-pictogram" data-src="visualisation/22923841">
-        <script src=src="https://public.flourish.studio/resources/embed.js"></script>
+        <script src="https://public.flourish.studio/resources/embed.js"></script>
       </div>
     </div>
       <p class="text-container">
