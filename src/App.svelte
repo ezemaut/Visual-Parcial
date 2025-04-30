@@ -176,8 +176,8 @@
 
 
 
-<h3 class="final-title">Puntería Letal: ¿Dónde apuntaban los genios?</h3>
-<h4 class="chart-subtitle">Este gráfico revela la brújula interna de Messi y Maradona al momento de definir</h4>
+<h3 class="final-title-3">Puntería Letal: ¿Dónde apuntaban los genios?</h3>
+<h4 class="chart-subtitle-3">Este gráfico revela la brújula interna de Messi y Maradona al momento de definir</h4>
 <div class="chart-box-3">
   <div class="flourish-embed flourish-chart" data-src="visualisation/22690208" style="height: 450px;">
     <script src="https://public.flourish.studio/resources/embed.js"></script>
