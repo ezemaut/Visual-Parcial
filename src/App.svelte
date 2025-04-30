@@ -154,23 +154,26 @@
   
   <!-- SEGUNDA FILA: -->
   <div class="chart-row-double row-reverse">
-    <div class="text-container">
-      <h3 class="final-title">Territorios del Gol: <br> ¿Dónde mandan Messi y Maradona?</h3>
     <div class="chart-box-half">
       <div class="flourish-embed flourish-pictogram" data-src="visualisation/22923841">
         <script src="https://public.flourish.studio/resources/embed.js"></script>
       </div>
+  
     </div>
+    <div class="text-container">
+      <h3 class="final-title">Territorios del Gol: ¿Dónde mandan Messi y Maradona?</h3>
       <p class="text-container">
-        Este gráfico muestra la concentración de goles según zonas de los goles de cada uno. <strong>Messi</strong> destaca por una clara <em>preferencia repetida</em>: 
-        el 78% de sus goles se concentran en unas pocas áreas específicas, lo que indica una <strong>consistencia quirúrgica</strong> en su estilo de finalización. 
-        <br>
-        En contraste, <strong>Maradona</strong> reparte sus goles de forma mucho más equilibrada: un 33% en cada categoría de zonas (pocos, medios y muchos), 
-        lo que sugiere una <strong>mayor variedad</strong> en sus definiciones y una capacidad de adaptarse a diferentes situaciones sin depender de una sola zona del arco.
+          Podemos observar que Messi tiene una marcada preferencia por la zona alta, donde convierte la mayoría
+          de sus goles. Su precisión y potencia le permiten explotar estos sectores difíciles para muchos. En la zona baja, en cambio, su presencia goleadora disminuye notablemente.  
+          Maradona, por su parte, muestra una distribución diferente: la mayoría de sus goles se concentran en la zona
+           media, mientras que tanto en la alta como en la baja su participación goleadora es limitada. Esto sugiere un estilo más orientado a las jugadas construidas desde el centro del área, con menos énfasis en remates altos o bajos.
       </p>
+      
+    </div>
+      
 
   </div>
-</div>
+
 
 
 <h3 class="final-title">Puntería Letal: ¿Dónde apuntaban los genios?</h3>
@@ -194,7 +197,7 @@
 
   <footer class="footer">
     <div class="footer-content">
-      <a href="https://github.com/Sofiik1/Visual" target="_blank"> <i class="fab fa-github"></i> Repositorio en GitHub </a>
+      <a href="https://github.com/ezemaut/Visual-Parcial" target="_blank"> <i class="fab fa-github"></i> Repositorio en GitHub </a>
       |
       <a href="https://www.linkedin.com/in/sofia-kutter" target="_blank">  <i class="fab fa-linkedin"></i> Sofía Kutter </a>
       |
@@ -220,6 +223,3 @@
 
 
 </style>
-
-
- 
