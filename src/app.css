@@ -159,9 +159,8 @@ p{
   background-color: #f9f9f9;
   border-radius: 10px;
   box-shadow: 0 4px 12px rgba(0,0,0,0.1);
-  padding: 20px;
   transition: transform 0.2s ease-in-out;
-  margin-bottom: 10px;
+  margin-bottom: 5px;
 }
 
 .text-container {
@@ -195,6 +194,24 @@ p{
   font-family: 'Inter', sans-serif;
   text-align: center;
   margin-bottom: 5px; /* reduce el espacio inferior */
+}
+
+.final-title-3 {
+  font-size: 25px;
+  color: #333;
+  line-height: 0;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  margin-bottom: 0px; /* reduce el espacio inferior */
+}
+
+.chart-subtitle-3 {
+  font-size: 22px;
+  color: #333;
+  line-height: 0;
+  font-family: 'Inter', sans-serif;
+  text-align: center;
+  margin-top: 15px; /* elimina el espacio superior */
 }
 
 .chart-subtitle {
