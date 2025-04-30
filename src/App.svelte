@@ -158,7 +158,7 @@
       <h3 class="final-title">Territorios del Gol: <br> ¿Dónde mandan Messi y Maradona?</h3>
       <h4 class="chart-subtitle">Distribución de goles según zonas del arco</h4>
     <div class="chart-box-2">
-      <div class="flourish-embed flourish-chart" data-src="visualisation/22695569">
+      <div class="flourish-embed flourish-pictogram" data-src="visualisation/22922189">
         <script src="https://public.flourish.studio/resources/embed.js"></script>
       </div>
       <p><strong>Pocos</strong>: Menos de 30 goles<br>
