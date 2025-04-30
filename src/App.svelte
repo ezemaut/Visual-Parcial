@@ -160,9 +160,6 @@
       <div class="flourish-embed flourish-pictogram" data-src="visualisation/22923841">
         <script src=src="https://public.flourish.studio/resources/embed.js"></script>
       </div>
-      <p><strong>Pocos</strong>: Menos de 30 goles<br>
-        <strong>Medio</strong>: Entre 31 y 50 goles<br>
-        <strong>Muchos</strong>: Mas de 50 goles</p>
     </div>
       <p class="text-container">
         Este gráfico muestra la concentración de goles según zonas de los goles de cada uno. <strong>Messi</strong> destaca por una clara <em>preferencia repetida</em>: 
