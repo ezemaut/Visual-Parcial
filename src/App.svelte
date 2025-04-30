@@ -156,16 +156,15 @@
   <div class="chart-row-double row-reverse">
     <div class="text-container">
       <h3 class="final-title">Territorios del Gol: <br> ¿Dónde mandan Messi y Maradona?</h3>
-      <h4 class="chart-subtitle">Distribución de goles según zonas del arco</h4>
-    <div class="chart-box-2">
-      <div class="flourish-embed flourish-pictogram" data-src="visualisation/22922189">
-        <script src="https://public.flourish.studio/resources/embed.js"></script>
+    <div class="chart-box-half">
+      <div class="flourish-embed flourish-pictogram" data-src="visualisation/22923841">
+        <script src=src="https://public.flourish.studio/resources/embed.js"></script>
       </div>
       <p><strong>Pocos</strong>: Menos de 30 goles<br>
         <strong>Medio</strong>: Entre 31 y 50 goles<br>
         <strong>Muchos</strong>: Mas de 50 goles</p>
     </div>
-      <p class="chart-description" style="margin-right: 10px;">
+      <p class="text-container">
         Este gráfico muestra la concentración de goles según zonas de los goles de cada uno. <strong>Messi</strong> destaca por una clara <em>preferencia repetida</em>: 
         el 78% de sus goles se concentran en unas pocas áreas específicas, lo que indica una <strong>consistencia quirúrgica</strong> en su estilo de finalización. 
         <br>
